@@ -1,0 +1,5 @@
+A set of scripts for changing the GPG key used in a zx2c4 password store. To
+use, simply decrypt the the directory using the old key, then encrypt it using
+the new key.
+
+For more details, see https://www.passwordstore.org
